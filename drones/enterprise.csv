@@ -1,0 +1,4 @@
+Drone Name,Unfolded Size,Folded Size,Max Altitude,Max Flight Time,Supported Gimbals/Cameras,Max Unobstructed Transmission Distance,Transmission Distance with Obstruction,Battery Capacity,Battery Type
+DJI Matrice 350 RTK,810 mm × 670 mm × 430 mm (L×W×H),430 mm × 420 mm × 430 mm (L×W×H),7000 mm,55 minutes,Zenmuse H30/Zenmuse H30T/Zenmuse H20/Zenmuse H20T/Zenmuse H20N/Zenmuse L2/Zenmuse L1/Zenmuse P1,20 km, Range 0 - 20 km,5880 mAh,Li-ion
+DJI Mavic 3M,347.5 mm × 283 mm × 139.6 mm,223 mm × 96.3 mm × 122.2 mm,6000 m,43 minutes,3-axis mechanical gimbal (tilt & roll & pan),15 km,Range 1.5 - 15km,5000 mAh,LiPo 4S
+DJI FlyCart 30,2800 mm x 3085 mm x 947 mm(LxWxH),1115 mm x 760 mm x 1027 mm(LxWxH),6000 m,29 minutes,Full HD FPV Single Axis Gimbal Camera,20 km,Range 1.5 - 15km,38000 mAh,14S1P

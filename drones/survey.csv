@@ -1,0 +1,7 @@
+Drone Name,Unfolded Size,Flight Altitude,Flight Speed,Flight Time,Payload Capacity,Camera Parameters,Field of view/Tilt,Battery Capacity,Battery Type
+M500,682 x 682 x 177 (blades unfolded),6000 m,10 m/s (Automatic),1+ hour(s),10kg,Focal Length 10.6 mm (Equivalent 28.6 mm),-90° to +20°,130 Wh,Lithium Polymer Battery
+M2000,1700 X 918 X 305 (blades unfolded),6000m m, 15m/s,1+ hour(s),10kg,Focal Length 10.6 mm (Equivalent 28.6 mm),-90° to +20°,184 Wh,Lithium Polymer Battery
+Wave Aerospace FALCON II LE,1270mm (50in) span diagonal - engine to engine,5000 m (16400 ft),35.7 m/s,1+ hour(s),9kg,High resolution cameras with upto 4 sensor modes,300°/s Yaw: 200°/s,30000 mAh,1443 Wh 48 V Solid State Lithium Polymer
+Wave Aerospace FALCON II NYX,1270mm (50in) span diagonal - engine to engine,5000 m (16400 ft),35.7 m/s,1+ hour(s),9kg,High resolution cameras with upto 4 sensor modes,300°/s Yaw: 200°/s,30000 mAh,1443 Wh 48 V Solid State Lithium Polymer
+Multi-Mission Utility Logistics & Expedition (“M.U.L.E.”),3.5 meters,5000+ m,36 m/s,upto 4 hours,40kg,Fully Autonomous (No onboard Camera), Tilt controlled by onboard accelerometer,Self-charging with heavy fuels/propane,True hybrid JP-8/electric
+Huntress Turbojet,4 meters,6000 m,Above 40 m/s,upto 4 hours,Payload Agnostic(No Payload),Precision Autonomous & Programmable (No onboard Camera), Tilt controlled by onboard accelerometer,Self-charging battery,True hybrid JP-8/electric
